@@ -115,7 +115,7 @@ input[type=checkbox] {
   z-index: 1;
 }
 .main .home {
-  background: linear-gradient(to bottom, transparent 50%, rgba(0, 0, 0, 0.7)), url("/protect_environment_landing_no_js/src/images/home-bg.jpg");
+  background: linear-gradient(to bottom, transparent 50%, rgba(0, 0, 0, 0.7)), url("src/images/home-bg.jpg");
   background-size: cover;
   background-position: center;
   height: 900px;
@@ -167,7 +167,7 @@ input[type=checkbox] {
   font-family: cursive;
 }
 .main .problem {
-  background: linear-gradient(to top, transparent 50%, rgba(0, 0, 0, 0.7)), linear-gradient(to bottom, rgba(0, 0, 0, 0.7), transparent 50%, rgba(0, 0, 0, 0.7)), url("/protect_environment_landing_no_js/src/images/problem-bg.jpg");
+  background: linear-gradient(to top, transparent 50%, rgba(0, 0, 0, 0.7)), linear-gradient(to bottom, rgba(0, 0, 0, 0.7), transparent 50%, rgba(0, 0, 0, 0.7)), url("src/images/problem-bg.jpg");
   background-size: cover;
   background-position: center;
   height: 900px;
@@ -247,7 +247,7 @@ input[type=checkbox] {
   align-items: center;
 }
 .main .about {
-  background: linear-gradient(to top, transparent 50%, rgba(0, 0, 0, 0.7)), linear-gradient(to bottom, rgba(0, 0, 0, 0.7), transparent 50%, rgba(0, 0, 0, 0.7)), url("/protect_environment_landing_no_js/src/images/about-bg.jpg");
+  background: linear-gradient(to top, transparent 50%, rgba(0, 0, 0, 0.7)), linear-gradient(to bottom, rgba(0, 0, 0, 0.7), transparent 50%, rgba(0, 0, 0, 0.7)), url("src/images/about-bg.jpg");
   background-size: cover;
   background-position: center;
   height: 900px;
@@ -290,7 +290,7 @@ input[type=checkbox] {
   list-style-type: disc;
 }
 .main .join {
-  background: linear-gradient(to top, transparent 50%, rgba(0, 0, 0, 0.7)), linear-gradient(to bottom, rgba(0, 0, 0, 0.7), transparent 50%, rgba(0, 0, 0, 0.7)), url("/protect_environment_landing_no_js/src/images/contact-bg.jpg");
+  background: linear-gradient(to top, transparent 50%, rgba(0, 0, 0, 0.7)), linear-gradient(to bottom, rgba(0, 0, 0, 0.7), transparent 50%, rgba(0, 0, 0, 0.7)), url("src/images/contact-bg.jpg");
   background-size: cover;
   background-position: center;
   height: 920px;
