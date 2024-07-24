@@ -135,6 +135,7 @@ input[type=checkbox] {
   font-family: cursive;
   display: flex;
   justify-content: center;
+  text-align: center;
 }
 .main .home .quotes {
   grid-column-start: 1;
