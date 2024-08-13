@@ -14,7 +14,7 @@ body {
     width: 100%;
     margin: 0;
     padding: 0;
-    overflow-x: hidden; // Prevent horizontal overflow
+    overflow-x: hidden; 
 }
 
 @mixin navbar-menu() {
@@ -39,7 +39,7 @@ body {
             color: white;
             text-decoration: none;
             font-weight: bold;
-            font-family: cursive;
+            font-family: 'Brush Script MT', 'Brush Script Std', 'Lucida Calligraphy', 'Lucida Handwriting', 'Apple Chancery', cursive;
 
             &:hover {
                 text-decoration: underline;
@@ -81,7 +81,7 @@ body {
         .ecology-logo {
             margin-left: 7px;
             font-weight: 700;
-            font-family: cursive;
+            font-family: 'Brush Script MT', 'Brush Script Std', 'Lucida Calligraphy', 'Lucida Handwriting', 'Apple Chancery', cursive;
         }
     }
 
@@ -194,7 +194,7 @@ input[type=checkbox] {
             font-size: 3.3em;
             margin-top: 300px;
             font-weight: 600;
-            font-family: cursive;
+            font-family: 'Brush Script MT', 'Brush Script Std', 'Lucida Calligraphy', 'Lucida Handwriting', 'Apple Chancery', cursive;
             display: flex;
             justify-content: center;
             text-align: center;
@@ -244,7 +244,7 @@ input[type=checkbox] {
 
             .quote-text {
                 padding-top: 10px;
-                font-family: cursive;
+                font-family: 'Brush Script MT', 'Brush Script Std', 'Lucida Calligraphy', 'Lucida Handwriting', 'Apple Chancery', cursive;
 
             }
         }
@@ -278,7 +278,7 @@ input[type=checkbox] {
             align-items: center;
             text-align: center;
             color: white;
-            font-family: cursive;
+            font-family: 'Brush Script MT', 'Brush Script Std', 'Lucida Calligraphy', 'Lucida Handwriting', 'Apple Chancery', cursive;
             font-size: 1.3em;
             margin: 10px;
 
@@ -308,7 +308,7 @@ input[type=checkbox] {
                 border-radius: 10px;
                 text-align: center;
                 color: rgb(50, 50, 50);
-                font-family: cursive;
+                font-family: 'Brush Script MT', 'Brush Script Std', 'Lucida Calligraphy', 'Lucida Handwriting', 'Apple Chancery', cursive;
                 padding: 20px;
                 display: flex;
                 flex-direction: column;
@@ -382,7 +382,7 @@ input[type=checkbox] {
         color: rgb(240, 240, 240);
         display: flex;
         flex-direction: column;
-        font-family: cursive;
+        font-family: 'Brush Script MT', 'Brush Script Std', 'Lucida Calligraphy', 'Lucida Handwriting', 'Apple Chancery', cursive;
         justify-content: space-evenly;
 
         .about-solution-header {
@@ -479,7 +479,7 @@ input[type=checkbox] {
             align-items: center;
             justify-content: center;
             color: rgb(240, 240, 240);
-            font-family: cursive;
+            font-family: 'Brush Script MT', 'Brush Script Std', 'Lucida Calligraphy', 'Lucida Handwriting', 'Apple Chancery', cursive;
 
             @media screen and (max-width:1000px) {
                 display: none;
@@ -495,7 +495,7 @@ input[type=checkbox] {
             grid-template-columns: 1fr;
             grid-template-rows: 1fr 2fr 1fr;
             margin: 0 40px;
-            font-family: cursive;
+            font-family: 'Brush Script MT', 'Brush Script Std', 'Lucida Calligraphy', 'Lucida Handwriting', 'Apple Chancery', cursive;
             background-color: rgba(240, 240, 240, 0.8);
             border: 1px solid rgba(0, 0, 0, 0.2);
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
